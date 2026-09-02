@@ -23,3 +23,6 @@ index.html
    pandascontrol.js
  /printcmd
    printcmdcontrol.js
+```
+[!CAUTION]
+Running scam codes or hacker codes results in a permanent ban. The website has anti cheat.
