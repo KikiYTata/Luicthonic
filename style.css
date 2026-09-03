@@ -7,10 +7,21 @@ h1 {
   font-family: Verdana, Geneva, sans-serif;
 } 
 
-textarea {
-  width: 100%;       /* Takes up the full width of the container */
-  height: 400px;     /* Sets the initial height */
-  font-family: 'Courier New', monospace; /* Good for code */
-  padding: 10px;
-  resize: vertical;  /* Allows the user to stretch it vertically only */
+.compiler-textarea {
+  /* Enables both horizontal and vertical resizing */
+  resize: both; 
+
+  /* Gives it a starting size */
+  width: 100%;
+  height: 300px;
+
+  /* Crucial: Sets limits so the user doesn't break your layout */
+  min-width: 300px;
+  max-width: 100%;
+  min-height: 150px;
+  max-height: 800px;
+
+  /* Optional: Ensures smooth rendering */
+  overflow: auto; 
+  box-sizing: border-box;
 }
