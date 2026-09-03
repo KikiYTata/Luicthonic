@@ -6,3 +6,11 @@ body {
   color: #FFFFFF;
   font-family: Verdana, Geneva, sans-serif;
 } 
+
+textarea {
+  width: 100%;       /* Takes up the full width of the container */
+  height: 400px;     /* Sets the initial height */
+  font-family: 'Courier New', monospace; /* Good for code */
+  padding: 10px;
+  resize: vertical;  /* Allows the user to stretch it vertically only */
+}
