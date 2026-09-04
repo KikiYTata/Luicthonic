@@ -3,26 +3,4 @@ Python based coding and Supports terminal. It's like Visual Studio Code
 
 ! THE WEBSITE IS NOT CODED WITH .PY FILES !
 
-Released on September 1, 2026
-
-Files
-```bash
-index.html
-/luicthonic
- /codemirror
-   cmsetup.js
- /terminalcmd
-   tmcmd.js
- /turtleipt
-   turtlecontrol.js
- /mathipt
-   mathcontrol.js
- /numpynpipt
-   npcontrol.js
- /pandasipt
-   pandascontrol.js
- /printcmd
-   printcmdcontrol.js
-```
-[!CAUTION]
-Running scam codes or hacker codes results in a permanent ban. The website has anti cheat.
+Released on September 1, 2026.
